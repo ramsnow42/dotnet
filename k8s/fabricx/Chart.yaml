@@ -1,0 +1,5 @@
+apiVersion: v2
+name: fabricx
+description: A Helm chart for FabricX microservices
+version: 0.1.0
+appVersion: "1.0"
